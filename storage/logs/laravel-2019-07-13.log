@@ -1,0 +1,5 @@
+[2019-07-13 12:59:46] testing.ERROR: No Database connection yet in VoyagerServiceProvider loadAuth()  
+[2019-07-13 13:10:07] testing.ERROR: Trait 'App\Notifiable' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Trait 'App\\Notifiable' not found at C:\\xampp\\htdocs\\laravel\\app\\Contact.php:9)
+[stacktrace]
+#0 {main}
+"} 
